@@ -356,6 +356,26 @@ const projects = [
     githubUrl: "#",
   },
   
+  {
+    id: 36,
+    title: "Nextflix Tv - Movies & Tv Streaming",
+    description: "Nextflix Tv - Movies & Tv Streaming built using Nextjs,Node,API and TMDB",
+    image: "/projects/Nextflix.png",
+    tags: ["Nextjs","Node","API","TMDB"],
+    category: "Web",
+    demoUrl: "https://nextflix-virid.vercel.app/",
+    githubUrl: "https://github.com/segsy/nextflix.git",
+  },
+  {
+    id: 37,
+    title: "Resumind- Track Your Applications & Resume Ratings",
+    description: "Resumind - Track Your Applications & Resume Ratings built using React,vite,Node,puter",
+    image: "/projects/resumind.png",
+    tags: ["React","Vite","Node","puter"],
+    category: "Web",
+    demoUrl: "https://ai-resume-analyzer-navy-xi.vercel.app/",
+    githubUrl: "https://github.com/segsy/AI-resume-analyzer.git",
+  },
 ];
 
 export const ProjectsSection = () => {
