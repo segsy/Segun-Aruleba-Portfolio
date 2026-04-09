@@ -376,6 +376,27 @@ const projects = [
     demoUrl: "https://ai-resume-analyzer-navy-xi.vercel.app/",
     githubUrl: "https://github.com/segsy/AI-resume-analyzer.git",
   },
+  {
+    id: 38,
+    title: "AI Podcast- Turn Your Podcast Into Viral Shorts",
+    description: "AI Clipping PodCast - Turn Your Podcast Into Viral Shorts",
+    image: "/projects/Podcast.png",
+    tags: ["React","Next","Python","FastAPI"],
+    category: "Web",
+    demoUrl: "https://ai-pod-cast-clipping-saas-hdwq.vercel.app/",
+    githubUrl: "https://github.com/segsy/AI-PodCast-Clipping-Saas",
+  },
+
+  {
+    id: 39,
+    title: "Nexus AI Website Builder",
+    description: "Nexus AI Website, apps, prototypes Builder - AI-Powered Website Generation",
+    image: "/projects/Nexus.png",
+    tags: ["React","Next","Node"],
+    category: "Web",
+    demoUrl: "https://nexus-ai-seven-gold.vercel.app",
+    githubUrl: "https://github.com/segsy/Nexus-AI",
+  },
 ];
 
 export const ProjectsSection = () => {
