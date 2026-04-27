@@ -397,6 +397,16 @@ const projects = [
     demoUrl: "https://nexus-ai-seven-gold.vercel.app",
     githubUrl: "https://github.com/segsy/Nexus-AI",
   },
+   {
+    id: 40,
+    title: "AI Course Generator",
+    description: "AI Course Generator, Course Generator - AI-Powered Course Generation",
+    image: "/projects/AIcourse.PNG",
+    tags: ["React","Express","Node"],
+    category: "Web",
+    demoUrl: "https://ai-course-generator-gold.vercel.app/",
+    githubUrl: "https://github.com/segsy/AI-Course-generator",
+  },
 ];
 
 export const ProjectsSection = () => {
